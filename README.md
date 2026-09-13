@@ -1,7 +1,12 @@
 # Storm-to-Quote
 **Florida wind parametric · hypothetical event set · $10M limit (assume)**
 
-I built a hypothetical replica of the "Florida 2nd stochastic event set" structure. <BR>
+I built a hypothetical replica of the "Florida Hurricane stochastic event set" (HURDAT reanalysis). <BR>
+-Probabilistic modelling of synthetic hurricane events <Br>
+-Monte Carlo simulation of trigger activation and payout variability <Br>
+-wind-field decay <Br>
+-Parametric pricing structure
+-EP curve
 
 **Historical_HURDAT** — 150 synthetic storm records in a HURDAT-style layout (storm ID, season, wind speed, category, pressure, FL region), spanning an illustrative 1851–2024 window. This is what I'd use to calibrate frequency and severity <br>
 
