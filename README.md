@@ -12,3 +12,4 @@ Frequency comes from a Poisson process calibrated to the historical set (λ≈0.
 For the payout ladder,I interpreted it as Cat1-or-below → 0%, Cat2 → 50%, Cat3+ → 100% <BR>
 
 **Result** on this hypothetical catalog, $10M limit: EL ≈ 4.32% of limit (~$431.7k), std dev ≈18.4% (CV≈4.3, typical of a low-frequency/high-severity cat layer), attachment probability ≈5.8%/yr, full-payout probability ≈2.8%/yr. <Br>
+
