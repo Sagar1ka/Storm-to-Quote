@@ -1,5 +1,5 @@
 # Storm-to-Quote
-Florida wind parametric · hypothetical event set · $10M limit (assume)
+**Florida wind parametric · hypothetical event set · $10M limit (assume)**
 
 I built a hypothetical replica of the "Florida 2nd stochastic event set" structure. <BR>
 
