@@ -18,3 +18,7 @@ For the payout ladder,I interpreted it as Cat1-or-below → 0%, Cat2 → 50%, Ca
 
 **Result** on this hypothetical catalog, $10M limit: EL ≈ 4.32% of limit (~$431.7k), std dev ≈18.4% (CV≈4.3, typical of a low-frequency/high-severity cat layer), attachment probability ≈5.8%/yr, full-payout probability ≈2.8%/yr. <Br>
 
+The Great Miami Hurricane of 1926 <br>
+As the centennial of the historic landfall in Miami approaches on the 18th, I wanted to reshare this webpage with some new wind swath maps, a wind field animation, and other relevant pieces of history: https://lnkd.in/gV6r_aEm
+
+https://bmcnoldy.earth.miami.edu/tropics/miami26/miami_landfall_windfield.gif
